@@ -1,12 +1,12 @@
----
-title: "seagrass_transplant_experiment"
-author: "Emily Adamczyk"
-date: "19/01/2022"
-output: html_document
----
+# SEAGRASS TRANSPLANT EXPERIMENT
+
+Authors:
+Emily M. Adamczyk
+Mary I. O'Connor
+Laura Wegener Parfrey
 
 
-**This is a repository for all the data, stats, and figures for the paper titled "Seagrass (Zostera marina) transplant experiment reveals microbial community selectivity and resistanace to environmental change"**
+This is a repository for all the data, stats, and figures for the paper titled "Seagrass (Zostera marina) transplant experiment reveals microbial community selectivity and resistanace to environmental change"
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
