@@ -1,9 +1,6 @@
-# SEAGRASS TRANSPLANT EXPERIMENT
+### Seagrass transplant experiment
 
-Authors:
-Emily M. Adamczyk
-Mary I. O'Connor
-Laura Wegener Parfrey
+**Authors**: Emily M. Adamczyk, Mary I. O'Connor, and Laura Wegener Parfrey
 
 
 This is a repository for all the data, stats, and figures for the paper titled "Seagrass (Zostera marina) transplant experiment reveals microbial community selectivity and resistanace to environmental change"
