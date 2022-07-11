@@ -9,4 +9,4 @@ This is a repository for all the data, stats, and figures for the paper titled "
 
 **Here is a link to the document "Supplementary analyses and figures", which includes tables and figures made without the 76 potentially contaminated samples**
 
-[Supplementary analyses and figures](https://github.com/eadamczyk/seagrass_transplant_experiment/blob/87722d608e171cf7ea92b41f46e4883c1c8a62b2/Adamczyk_SupplementaryAnalysesFigures_MolecularEcology_20220119.docx)
+[Supplementary analyses and figures](https://github.com/eadamczyk/seagrass_transplant_experiment/blob/ac83d32c614bd5c8fee3baa5a926a356c83f3853/Adamczyk_SupplementaryAnalysesFigures_MolecularEcology.pdf)
