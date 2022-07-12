@@ -13,12 +13,15 @@ This is a repository for the R scripts, corresponding data, and supplementary an
 
 ---------------------------------------------------------------------------------------------------------------------------------
 **R scripts for data analysis and figures**
+
 ***Statistics***
+
 [PERMANOVA]()
 [IndVal]
 [Frequency analysis]
 
 ***Figures***
+
 [nMDS plots]
 [Seagrass growth]
 [Taxa summary plots]
