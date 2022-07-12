@@ -6,6 +6,11 @@
 This is a repository for all the data, stats, and figures for the paper titled "Seagrass (Zostera marina) transplant experiment reveals core microbiome and resistance to environmental change"
 
 ---------------------------------------------------------------------------------------------------------------------------------
+** Here are the R scripts for the analyses and figures**
+[R scripts]()
+
+
+---------------------------------------------------------------------------------------------------------------------------------
 
 **Here is a link to the document "Supplementary analyses and figures", which includes tables and figures made without the 76 potentially contaminated samples**
 
