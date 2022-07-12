@@ -3,15 +3,25 @@
 **Authors**: Emily M. Adamczyk, Mary I. O'Connor, and Laura Wegener Parfrey
 
 
-This is a repository for all the data, stats, and figures for the paper titled "Seagrass (Zostera marina) transplant experiment reveals core microbiome and resistance to environmental change"
-
----------------------------------------------------------------------------------------------------------------------------------
-** Here are the R scripts for the analyses and figures**
-[R scripts]()
-
+This is a repository for the R scripts, corresponding data, and supplementary analyses and figures for the paper titled "Seagrass (Zostera marina) transplant experiment reveals core microbiome and resistance to environmental change"
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
-**Here is a link to the document "Supplementary analyses and figures", which includes tables and figures made without the 76 potentially contaminated samples**
+**"Supplementary analyses and figures" document, which includes tables and figures without the 76 potentially contaminated samples**
 
 [Supplementary analyses and figures](https://github.com/eadamczyk/seagrass_transplant_experiment/blob/ac83d32c614bd5c8fee3baa5a926a356c83f3853/Adamczyk_SupplementaryAnalysesFigures_MolecularEcology.pdf)
+
+---------------------------------------------------------------------------------------------------------------------------------
+**R scripts for data analysis and figures**
+***Statistics***
+[PERMANOVA]()
+[IndVal]
+[Frequency analysis]
+
+***Figures***
+[nMDS plots]
+[Seagrass growth]
+[Taxa summary plots]
+
+
+
