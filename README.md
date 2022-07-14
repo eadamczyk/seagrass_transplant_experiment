@@ -17,13 +17,17 @@ This is a repository for the R scripts, corresponding data, and supplementary an
 ***Statistics***
 
 [PERMANOVA](https://github.com/eadamczyk/seagrass_transplant_experiment/tree/main/PERMANOVAs)
-[IndVal]()
-[Frequency analysis]()
+
+[IndVal](https://github.com/eadamczyk/seagrass_transplant_experiment/tree/main/IndVal)
+
+[Frequency analysis](https://github.com/eadamczyk/seagrass_transplant_experiment/tree/main/frequency_analysis)
 
 ***Figures***
 
-[NMDS plots]()
+[NMDS plots](https://github.com/eadamczyk/seagrass_transplant_experiment/tree/main/NMDS%20plots)
+
 [Seagrass growth]()
+
 [Taxa summary plots]()
 
 
