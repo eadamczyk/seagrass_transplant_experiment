@@ -17,14 +17,14 @@ This is a repository for the R scripts, corresponding data, and supplementary an
 ***Statistics***
 
 [PERMANOVA]()
-[IndVal]
-[Frequency analysis]
+[IndVal]()
+[Frequency analysis]()
 
 ***Figures***
 
-[nMDS plots]
-[Seagrass growth]
-[Taxa summary plots]
+[NMDS plots]()
+[Seagrass growth]()
+[Taxa summary plots]()
 
 
 
