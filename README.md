@@ -26,9 +26,9 @@ This is a repository for the R scripts, corresponding data, and supplementary an
 
 [NMDS plots](https://github.com/eadamczyk/seagrass_transplant_experiment/tree/main/NMDS%20plots)
 
-[Seagrass growth]()
+[Seagrass growth](https://github.com/eadamczyk/seagrass_transplant_experiment/tree/main/seagrass_growth)
 
-[Taxa summary plots]()
+[Taxa summary plots](https://github.com/eadamczyk/seagrass_transplant_experiment/tree/main/taxa_summary_plots)
 
 
 
