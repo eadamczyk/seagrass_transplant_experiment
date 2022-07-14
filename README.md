@@ -16,7 +16,7 @@ This is a repository for the R scripts, corresponding data, and supplementary an
 
 ***Statistics***
 
-[PERMANOVA](https://github.com/eadamczyk/seagrass_transplant_experiment/tree/main/PERMANOVAs)
+[PERMANOVA](https://github.com/eadamczyk/seagrass_transplant_experiment/tree/main/PERMANOVA)
 
 [IndVal](https://github.com/eadamczyk/seagrass_transplant_experiment/tree/main/IndVal)
 
